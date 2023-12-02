@@ -10,4 +10,4 @@
 - Delect Previous Orders History
 - Exit
 
-![ Manager ](screenshots/Manager.png)
+![ Manager ](Screenshots/Manager.png)
